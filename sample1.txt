@@ -3,4 +3,4 @@ Sample1 is the text file
 Newly added line
 Newly added line hello
 This is the new line
-This is the fifth line
+Newly added line hello
