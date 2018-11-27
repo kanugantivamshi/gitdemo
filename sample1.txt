@@ -4,3 +4,4 @@ Newly added line
 Newly added line hello
 This is the new line
 Newly added line hello
+Adding a new line
