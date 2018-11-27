@@ -1,3 +1,7 @@
 This is the second changes that I am doing it
 Sample1 is the text file
+<<<<<<< HEAD
 Newly added line
+=======
+Newly added line hello
+>>>>>>> dev
