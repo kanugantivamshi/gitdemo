@@ -1,7 +1,6 @@
 This is the second changes that I am doing it
 Sample1 is the text file
-<<<<<<< HEAD
 Newly added line
-=======
 Newly added line hello
->>>>>>> dev
+This is the new line
+This is the fifth line
